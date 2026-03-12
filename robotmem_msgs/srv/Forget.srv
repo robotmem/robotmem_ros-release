@@ -1,5 +1,0 @@
-int64 memory_id                 # 必填
-string reason                   # 必填
----
-bool success
-string error
