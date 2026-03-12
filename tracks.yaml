@@ -14,7 +14,7 @@ tracks:
     last_version: 0.1.0
     name: robotmem_ros
     patches: null
-    release_inc: '0'
+    release_inc: '1'
     release_repo_url: https://github.com/robotmem/robotmem_ros-release.git
     release_tag: :{version}
     ros_distro: humble
